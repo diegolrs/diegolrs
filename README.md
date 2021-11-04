@@ -1,17 +1,10 @@
-### Hi there 👋
+# Diego Reis
 
- <div>
-  <a href="https://github.com/diegolrs">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=diegolrs&show_icons=true&theme=dracula&include_all_commits=yes&count_private=true&hide=dart"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=diegolrs&layout=compact&langs_count=7&theme=dracula&hide=dart"/>
-</div>
- 
-<div style="display: inline_block"><br>
-  <img align="center" alt="C#" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="center" alt="Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
-  <img align="center" alt="C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
-  <img align="center" alt="C++" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg">
-</div>
+
+<a href = "https://www.linkedin.com/in/diegolrs/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=Linkedin"></a>
+<a href = "mailto:hairbowsgame@gmail.com"><img src="https://img.shields.io/badge/-Gmail-c14438?style=for-the-badge&logo=Gmail&logoColor=white" target="_blank"></a>
+<a href = "https://instagram.com/diegolrs"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
+
 
 <!--
 **diegolrs/diegolrs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
