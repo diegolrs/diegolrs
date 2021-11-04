@@ -4,7 +4,9 @@
 <a href = "https://www.linkedin.com/in/diegolrs/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=Linkedin"></a>
 <a href = "mailto:hairbowsgame@gmail.com"><img src="https://img.shields.io/badge/-Gmail-c14438?style=for-the-badge&logo=Gmail&logoColor=white" target="_blank"></a>
 <a href = "https://instagram.com/diegolrs"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
-
+<a href = "https://instagram.com/diegolrs"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
+<a href = "https://store.steampowered.com/search/?publisher=Donnie%20Game%20Studio"><img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white"></a>
+<a href = "https://diegolrs.itch.io/"><img src="https://img.shields.io/badge/Itch.io-FA5C5C?style=for-the-badge&logo=itch.io&logoColor=white"></a>
 
 <!--
 **diegolrs/diegolrs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
