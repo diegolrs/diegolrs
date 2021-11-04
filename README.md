@@ -1,5 +1,5 @@
 # Hey there, Diego here! 
-## I'm an indie game developer! Isn't that great?
+## I'm a game developer! Isn't that great?
 
 ### I'm currently developing two games, <a href="https://store.steampowered.com/app/1731730/Snowyland/">Snowyland</a> and <a href="https://store.steampowered.com/app/1635490/Hair_Bows/">Hair Bows</a>, both you can find on steam.
 <p align="center">
