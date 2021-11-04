@@ -19,7 +19,7 @@
   <img align="center" alt="C++" height="50" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg">
 </div>
 
-#### Here is where you can find more about me:
+### Here is where you can find more about / contact me:
 <a href = "https://www.linkedin.com/in/diegolrs/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=Linkedin"></a>
 <a href = "mailto:hairbowsgame@gmail.com"><img src="https://img.shields.io/badge/-Gmail-c14438?style=for-the-badge&logo=Gmail&logoColor=white" target="_blank"></a>
 <a href = "https://instagram.com/diegolrs"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
