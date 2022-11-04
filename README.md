@@ -28,6 +28,8 @@
 <a href = "https://store.steampowered.com/developer/donniegamestudio"><img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white"></a>
 <a href = "https://diegolrs.itch.io/"><img src="https://img.shields.io/badge/Itch.io-FA5C5C?style=for-the-badge&logo=itch.io&logoColor=white"></a>
 
+<img src="https://komarev.com/ghpvc/?username=diegolrs&color=blue" alt="Diego-Reis" /> 
+
 <!--
 **diegolrs/diegolrs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
