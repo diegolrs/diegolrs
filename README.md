@@ -1,10 +1,10 @@
 # Hey there, Diego here! 
 <!--## I'm a game developer! Isn't that great?-->
 
-### I'm currently developing two games, <a href="https://store.steampowered.com/app/1731730/Snowyland/">Snowyland</a> and <a href="https://store.steampowered.com/app/1635490/Hair_Bows/">Hair Bows</a>, both you can find on steam.
-<p align="center">
-<img width="100%" height="100%" src="https://github.com/diegolrs/diegolrs/blob/main/img/capa.png">  
-</p>
+### I have a finished game on steam called <a href="https://store.steampowered.com/app/1731730/Snowyland/">Snowyland</a> and I'm currently solo developing a platformer called <a href="https://store.steampowered.com/app/1635490/Hair_Bows/">Hair Bows</a>. Both games can be found on steam.<br>
+<a href="https://store.steampowered.com/franchise/donniegamestudio/?l=portuguese" align="center">
+<img width="100%" height="100%" src="https://github.com/diegolrs/diegolrs/blob/main/img/capa2.png">  
+</a>
 
 <!--
 ### I'm also a unity developer in the VLibras project from LAVID (Digital Video Applications Laboratory) in Libraske, the first hand-sign Karaoke!
